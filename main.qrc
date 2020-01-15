@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/iconWait.ico</file>
+        <file>res/iconWork.ico</file>
+    </qresource>
+</RCC>
